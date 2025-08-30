@@ -17,19 +17,11 @@ Win by reaching the end of each level without dying.
 - **Push/Pull Mechanics**: Interact with objects without touching them
 - **Physics-Based Puzzles**: Stack, shift, or launch objects
 - **Enemies and Traps**: Avoid or manipulate them strategically
-- **Power-ups**:
-  - Double Jump
-  - Gravity Reversal
-  - Enemy-to-Trampoline
-- **Prototypes for future mechanics**:
-  - Gravity wells
-  - Wall crawl & jump
-  - Grappling movement
 
 ## 📦 Repository
 
 - **Main GitHub**: [CSCI-526/main-project-dream-team](https://github.com/CSCI-526/main-project-dream-team.git)
-- **Playable Alpha Build**: [Try It Now](https://didonehaln.github.io/ForceGame/)
+- **Playable Build**: [Try It Now](https://didonehaln.github.io/ForceGold/)
 
 ## 🧪 Mechanics Inspiration
 
@@ -55,17 +47,10 @@ Win by reaching the end of each level without dying.
 
 Methodology Used: 
 - Data Collection:
-     Google sheets (link to sheet data: https://docs.google.com/spreadsheets/d/e/2PACX-1vTtFGAHNMMPe7F4WxuHsN1Gbk4IrvlZyHJkQS4tUl6jq6klnMyjMPvhdHP2eRDMvvwrTXI5MLIGx5we/pubhtml)
+     Firebase
 - Data Visualization:
-     Python to create graphs (link to colab file: https://colab.research.google.com/drive/1uZMA722x5vrsnua-to961lr-GttYd9Qn#scrollTo=GPJt6--RbjvZ)
+     Python to create graphs (link to colab file: https://colab.research.google.com/drive/1KIARwuv5FMbJZre9mC6AlBn-2a9kT1bV)
 
+## Game design document
 
-## 🛠️ Development Log
-
-### Week 8
-- Prototype development: Wall Jump, Dash, Gravity Well, Rope Grappling
-- Level implemented with force-based object control
-
-### Week 9
-- Finalized core mechanics
-- Created two functional levels with push/pull logic
+https://drive.google.com/file/d/1gOMrnX4JVFDi3iKCVOYwdjNDKYu7GsZR/view?usp=sharing
